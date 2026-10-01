@@ -1,15 +1,15 @@
-Olá, eu sou a Franciele Souza 👋
+# Olá, eu sou a Franciele Souza 👋
 
 Atualmente sou graduanda em **Engenharia de Software** (Previsão: Julho/2027), possuo formação em **Análise e Desenvolvimento de Sistemas (ADS)** e estudo **Inglês** focado no ambiente corporativo. 
 
-Atuo na área de **Processos e Análise de Dados (WPI)** na Stellantis, com foco em automação e geração de relatórios estratégicos para a diretoria executiva e alinhamento diário com lideranças globais. Estou direcionando minha carreira para a **Engenharia de Dados**, unindo minha forte vivência em comunicação corporativa e processos de negócios internacionais com a construção de arquiteturas de dados escaláveis.
+Atuo na gestão de novos projetos como **PMO (Project Management Office)** na Stellantis, com foco em governança, automação de processos, geração de relatórios estratégicos para a diretoria executiva e alinhamento diário com lideranças globais. Estou direcionando minha carreira para a **Engenharia de Dados**, unindo minha forte vivência em gestão de projetos internacionais com a construção de arquiteturas de dados escaláveis.
 
 ---
 
 ### 🛠️ Minhas Habilidades & Tecnologias
 
 - **Visualização de Dados & Negócios:** Power BI, Dashboards Executivos, KPIs e PowerApps (Low-Code).
-- **Idiomas & Metodologias:** Inglês Corporativo, Gestão de Projetos Globais.
+- **Idiomas & Metodologias:** Inglês Corporativo, Gestão de Projetos Globais (PMO).
 - **Em Evolução (Trilha de Engenharia de Dados):** SQL, Python (Pandas e NumPy), Modelagem de Dados e Apache Airflow.
 
 ---
@@ -23,4 +23,6 @@ Atuo na área de **Processos e Análise de Dados (WPI)** na Stellantis, com foco
 ---
 
 📫 **Como me encontrar:** 
+[Insira o link do seu LinkedIn aqui]
+
 www.linkedin.com/in/franciele-souza-a1791a270
