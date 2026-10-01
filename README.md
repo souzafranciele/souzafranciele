@@ -23,6 +23,5 @@ Atuo na gestão de novos projetos como **PMO (Project Management Office)** na St
 ---
 
 📫 **Como me encontrar:** 
-[Insira o link do seu LinkedIn aqui]
 
 www.linkedin.com/in/franciele-souza-a1791a270
